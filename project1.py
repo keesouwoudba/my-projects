@@ -162,5 +162,8 @@ def help_the_user(x, y, functiontype):
     print(f"the correct answer is: {correct}")
 
 
-main()
+    
+if __name__ == "__main__":
+    main()
+
 
